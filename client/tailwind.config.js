@@ -4,9 +4,13 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+
+  // Dark mode ko system preference ke bajay manually control karne ke liye
+  darkMode: "class",
+
   theme: {
     extend: {},
   },
+
   plugins: [],
 }
-

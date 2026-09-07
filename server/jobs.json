@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "description": "\n        <p>We are seeking a highly skilled Full Stack Developer to join our dynamic and innovative team. The ideal candidate will have a passion for developing scalable web applications and working across the entire technology stack, including front-end and back-end development. You will have the opportunity to work with the latest technologies and contribute to exciting projects that impact our users directly.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Build, test, and deploy highly responsive web applications.</li>\n            <li>Design user-friendly interfaces using HTML, CSS, and JavaScript.</li>\n            <li>Develop and maintain APIs and databases to support application functionality.</li>\n            <li>Collaborate with cross-functional teams to define, design, and ship new features.</li>\n            <li>Identify and resolve bottlenecks and bugs to optimize application performance.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in HTML, CSS, and JavaScript frameworks (e.g., React, Angular).</li>\n            <li>Experience with server-side languages (e.g., Node.js, Python).</li>\n            <li>Familiarity with relational and non-relational databases (e.g., MySQL, MongoDB).</li>\n            <li>Strong understanding of web security and performance optimization.</li>\n            <li>Ability to work in an Agile environment.</li>\n        </ol>",
+    "location": "Ahemdabaad",
+    "category": "Programming",
+    "level": "Senior Level",
+    "salary": 82000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Data Scientist",
+    "description": "\n        <p>Join our analytics team to help drive business decisions using data. As a Data Scientist, you will leverage your analytical skills to uncover patterns and insights that will influence our strategic direction. You will work closely with stakeholders to understand their needs and deliver impactful analyses that support our growth objectives. Your role is critical in turning data into actionable insights.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Analyze large datasets to uncover trends and patterns that inform business strategies.</li>\n            <li>Develop predictive models to forecast outcomes and improve decision-making.</li>\n            <li>Visualize data findings through reports and dashboards for stakeholders.</li>\n            <li>Collaborate with cross-functional teams to define data-driven goals.</li>\n            <li>Continuously refine data collection and analysis processes to enhance accuracy.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in Python or R for statistical analysis and data manipulation.</li>\n            <li>Experience with data visualization tools (e.g., Tableau, Power BI).</li>\n            <li>Strong knowledge of SQL and database management.</li>\n            <li>Familiarity with machine learning techniques and algorithms.</li>\n            <li>Excellent problem-solving and critical-thinking skills.</li>\n        </ol>",
+    "location": "Jaipur",
+    "category": "Data Science",
+    "level": "Intermediate Level",
+    "salary": 72000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "\n        <p>Create intuitive digital experiences as a UI/UX Designer. In this role, you will collaborate with product teams to design engaging user interfaces and ensure a seamless user journey. Your creativity and attention to detail will be crucial in developing designs that not only look good but also enhance functionality and user satisfaction.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Conduct user research and usability testing to gather insights on user needs.</li>\n            <li>Create wireframes, prototypes, and high-fidelity designs that communicate user flows.</li>\n            <li>Collaborate with development teams to implement designs effectively.</li>\n            <li>Stay updated with industry trends and best practices in UI/UX design.</li>\n            <li>Gather and analyze user feedback to iterate and improve designs.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in design tools like Figma, Sketch, or Adobe XD.</li>\n            <li>Strong understanding of user-centered design principles.</li>\n            <li>Basic knowledge of HTML/CSS for better collaboration with developers.</li>\n            <li>Excellent communication and teamwork skills.</li>\n            <li>Creative problem-solving abilities.</li>\n        </ol>",
+    "location": "Bangalore",
+    "category": "Designing",
+    "level": "Beginner Level",
+    "salary": 61000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "\n        <p>Enhance our deployment pipeline as a DevOps Engineer. This role will involve automating deployment processes, managing cloud infrastructure, and implementing best practices for security and performance. You will play a vital role in bridging the gap between development and operations, ensuring efficient workflows and high-quality releases.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Automate deployment processes using CI/CD tools to streamline development workflows.</li>\n            <li>Manage cloud infrastructure, ensuring optimal performance and scalability.</li>\n            <li>Implement security best practices to safeguard our systems.</li>\n            <li>Monitor application performance and troubleshoot issues proactively.</li>\n            <li>Collaborate with developers to improve system reliability and efficiency.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Experience with CI/CD tools (e.g., Jenkins, GitLab CI).</li>\n            <li>Strong knowledge of cloud platforms (e.g., AWS, Azure).</li>\n            <li>Proficiency in scripting languages (e.g., Bash, Python).</li>\n            <li>Familiarity with containerization technologies (e.g., Docker, Kubernetes).</li>\n            <li>Excellent troubleshooting and analytical skills.</li>\n        </ol>",
+    "location": "Ahemdabaad",
+    "category": "Programming",
+    "level": "Senior Level",
+    "salary": 53000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Software Engineer",
+    "description": "\n        <p>Join our team as a Software Engineer to build high-quality applications that deliver exceptional user experiences. You will be responsible for designing, developing, and maintaining software solutions that meet business needs. Collaborating closely with other engineers, you will contribute to code reviews and ensure best practices are followed throughout the development process.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Develop and maintain software applications that fulfill user requirements.</li>\n            <li>Collaborate with cross-functional teams to design scalable and efficient solutions.</li>\n            <li>Participate in code reviews to ensure code quality and maintainability.</li>\n            <li>Conduct testing and debugging to improve application functionality.</li>\n            <li>Document development processes and application designs.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficient in Java or C# with a solid understanding of object-oriented programming.</li>\n            <li>Experience with Agile methodologies and software development life cycle.</li>\n            <li>Strong problem-solving skills and attention to detail.</li>\n            <li>Familiarity with version control systems (e.g., Git).</li>\n            <li>Excellent communication and teamwork abilities.</li>\n        </ol>",
+    "location": "Hyderabad",
+    "category": "Programming",
+    "level": "Intermediate Level",
+    "salary": 91000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Network Engineer",
+    "description": "\n        <p>We are looking for a Network Engineer to manage our infrastructure and ensure robust connectivity across all systems. Your expertise will help us design and implement network solutions that are secure and efficient. You will be pivotal in monitoring network performance and ensuring compliance with security standards.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design and implement network solutions that meet organizational needs.</li>\n            <li>Monitor network performance and troubleshoot issues to ensure uptime.</li>\n            <li>Ensure security compliance by implementing best practices.</li>\n            <li>Document network configurations and maintain updated records.</li>\n            <li>Collaborate with IT teams to enhance network capabilities.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in network protocols and routing (e.g., TCP/IP, BGP, OSPF).</li>\n            <li>Experience with firewalls, VPNs, and security technologies.</li>\n            <li>Strong troubleshooting skills and attention to detail.</li>\n            <li>Excellent communication and teamwork abilities.</li>\n            <li>Relevant certifications (e.g., CCNA, CCNP) are a plus.</li>\n        </ol>",
+    "location": "Bangalore",
+    "category": "Networking",
+    "level": "Senior Level",
+    "salary": 77000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Project Manager",
+    "description": "\n        <p>Lead projects as a Project Manager ensuring timely delivery and alignment with organizational goals. You will oversee project planning, execution, and monitoring, collaborating with various teams to ensure that all aspects of each project are delivered successfully. Your strong leadership skills will be key to motivating team members and fostering a positive work environment.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Define project scope, objectives, and deliverables in collaboration with stakeholders.</li>\n            <li>Develop detailed project plans and schedules to guide execution.</li>\n            <li>Monitor project progress and adjust plans as necessary to meet deadlines.</li>\n            <li>Facilitate communication between teams and manage stakeholder expectations.</li>\n            <li>Conduct project retrospectives to identify lessons learned and areas for improvement.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proven experience as a Project Manager in a technology-focused environment.</li>\n            <li>Familiarity with project management software (e.g., JIRA, Trello).</li>\n            <li>Strong leadership and organizational skills.</li>\n            <li>Excellent communication and interpersonal abilities.</li>\n            <li>Certification in project management (e.g., PMP, Scrum Master) is preferred.</li>\n        </ol>",
+    "location": "Bangalore",
+    "category": "Management",
+    "level": "Senior Level",
+    "salary": 60000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Mobile App Developer",
+    "description": "\n        <p>Join our team as a Mobile App Developer to create engaging mobile applications for iOS and Android platforms. You will be responsible for the full app development lifecycle, from concept and design to deployment and maintenance. Your creativity and technical skills will help us deliver high-quality applications that enhance user experience.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design and build advanced mobile applications for iOS and Android.</li>\n            <li>Collaborate with cross-functional teams to define, design, and ship new features.</li>\n            <li>Continuously discover, evaluate, and implement new technologies to maximize development efficiency.</li>\n            <li>Ensure performance, quality, and responsiveness of applications.</li>\n            <li>Conduct code reviews and maintain code quality standards.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in Swift for iOS or Kotlin for Android development.</li>\n            <li>Experience with RESTful APIs and third-party libraries.</li>\n            <li>Strong understanding of mobile app design principles and guidelines.</li>\n            <li>Excellent problem-solving skills and attention to detail.</li>\n            <li>Familiarity with version control systems (e.g., Git).</li>\n        </ol>",
+    "location": "Hyderabad",
+    "category": "Programming",
+    "level": "Intermediate Level",
+    "salary": 112000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Cloud Architect",
+    "description": "\n        <p>Design cloud solutions as a Cloud Architect, helping to transform our infrastructure and services. You will work closely with various teams to understand their requirements and translate them into secure, scalable, and efficient cloud-based solutions. Your expertise will guide our cloud strategy and ensure that we leverage cloud technologies to their fullest potential.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design and implement cloud solutions that align with business objectives.</li>\n            <li>Provide guidance on best practices for cloud architecture and deployment.</li>\n            <li>Collaborate with DevOps teams to enhance cloud infrastructure and security.</li>\n            <li>Monitor cloud systems for performance and cost-effectiveness.</li>\n            <li>Stay updated on emerging cloud technologies and industry trends.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong knowledge of cloud service providers (e.g., AWS, Azure, GCP).</li>\n            <li>Experience with cloud architecture patterns and best practices.</li>\n            <li>Familiarity with containerization and orchestration technologies (e.g., Docker, Kubernetes).</li>\n            <li>Excellent analytical and problem-solving skills.</li>\n            <li>Relevant certifications (e.g., AWS Certified Solutions Architect) are preferred.</li>\n        </ol>",
+    "location": "Hyderabad",
+    "category": "Programming",
+    "level": "Senior Level",
+    "salary": 96000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Technical Writer",
+    "description": "\n        <p>Join us as a Technical Writer to create user-friendly documentation that supports our products and services. You will work closely with engineers and product managers to gather information and produce clear, concise, and accurate documentation. Your role is essential in ensuring that our users can easily understand and utilize our offerings.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Create and maintain user manuals, API documentation, and other technical materials.</li>\n            <li>Collaborate with development teams to gather and clarify technical information.</li>\n            <li>Conduct reviews of existing documentation to ensure accuracy and relevance.</li>\n            <li>Ensure that documentation is up-to-date and consistent with product updates.</li>\n            <li>Utilize feedback from users to enhance the clarity and usability of documentation.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in technical writing and documentation tools (e.g., MadCap Flare, Adobe FrameMaker).</li>\n            <li>Strong understanding of technology and the ability to convey complex information clearly.</li>\n            <li>Excellent research and analytical skills.</li>\n            <li>Strong communication and collaboration abilities.</li>\n            <li>Attention to detail and a commitment to quality.</li>\n        </ol>",
+    "location": "Mumbai",
+    "category": "Marketing",
+    "level": "Intermediate Level",
+    "salary": 72000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "\n        <p>Protect our systems as a Cybersecurity Analyst. In this role, you will monitor security systems, analyze potential threats, and implement protective measures to safeguard our information and assets. Your expertise will help us stay ahead of evolving security challenges and maintain a secure environment for our users and stakeholders.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Monitor and analyze security events to identify potential threats.</li>\n            <li>Conduct risk assessments and vulnerability analyses to enhance security posture.</li>\n            <li>Implement security measures and controls to mitigate risks.</li>\n            <li>Collaborate with IT teams to respond to security incidents.</li>\n            <li>Stay informed about the latest cybersecurity trends and threats.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong knowledge of security protocols, standards, and tools.</li>\n            <li>Experience with SIEM tools and incident response processes.</li>\n            <li>Understanding of network protocols and security technologies.</li>\n            <li>Excellent problem-solving and analytical skills.</li>\n            <li>Relevant certifications (e.g., CISSP, CEH) are a plus.</li>\n        </ol>",
+    "location": "Mumbai",
+    "category": "Cybersecurity",
+    "level": "Intermediate Level",
+    "salary": 62000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Business Analyst",
+    "description": "\n        <p>Join us as a Business Analyst to optimize our processes and improve overall efficiency. You will work closely with stakeholders to identify business needs and gather requirements for new projects. Your analytical skills will help drive decision-making and ensure that solutions align with business objectives.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Gather and analyze business requirements from stakeholders.</li>\n            <li>Develop detailed documentation of business processes and workflows.</li>\n            <li>Collaborate with IT and development teams to translate requirements into solutions.</li>\n            <li>Conduct testing and validation of new systems and processes.</li>\n            <li>Provide ongoing support and training for users.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong analytical skills and attention to detail.</li>\n            <li>Proficiency in business analysis tools (e.g., Visio, JIRA).</li>\n            <li>Excellent communication and interpersonal abilities.</li>\n            <li>Experience with data analysis and reporting.</li>\n            <li>Familiarity with Agile methodologies is a plus.</li>\n        </ol>",
+    "location": "Mumbai",
+    "category": "Management",
+    "level": "Intermediate Level",
+    "salary": 68000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Marketing Specialist",
+    "description": "\n        <p>Support our marketing efforts as a Marketing Specialist. In this role, you will assist with campaign execution, content creation, and social media management. Your creativity and enthusiasm will help promote our brand and engage our audience across various channels.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Assist in the development and execution of marketing campaigns.</li>\n            <li>Create engaging content for social media platforms and newsletters.</li>\n            <li>Conduct market research to identify trends and opportunities.</li>\n            <li>Monitor and analyze campaign performance metrics.</li>\n            <li>Collaborate with team members to brainstorm new marketing ideas.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Basic understanding of digital marketing principles.</li>\n            <li>Strong written and verbal communication skills.</li>\n            <li>Proficiency in social media platforms and marketing tools.</li>\n            <li>Creative thinking and problem-solving abilities.</li>\n            <li>Willingness to learn and adapt in a fast-paced environment.</li>\n        </ol>",
+    "location": "Chennai",
+    "category": "Marketing",
+    "level": "Beginner Level",
+    "salary": 77000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Data Scientist",
+    "description": "\n        <p>Join our innovative team as a Data Scientist, where you will analyze complex data sets to drive strategic decision-making. You will leverage your statistical and programming skills to uncover insights and develop predictive models, contributing to the overall success of our organization.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Analyze large datasets to identify trends, patterns, and anomalies.</li>\n            <li>Develop and implement predictive models and algorithms.</li>\n            <li>Collaborate with cross-functional teams to understand business needs and provide data-driven solutions.</li>\n            <li>Visualize data findings and present insights to stakeholders.</li>\n            <li>Stay current with industry trends and best practices in data science.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in programming languages such as Python or R.</li>\n            <li>Strong knowledge of statistical methods and machine learning techniques.</li>\n            <li>Experience with data visualization tools (e.g., Tableau, Power BI).</li>\n            <li>Excellent problem-solving skills and attention to detail.</li>\n            <li>Ability to communicate complex concepts to non-technical audiences.</li>\n        </ol>",
+    "location": "Pune",
+    "category": "Data Science",
+    "level": "Senior Level",
+    "salary": 65000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "UX/UI Designer",
+    "description": "\n        <p>We are seeking a talented UX/UI Designer to enhance our user experience across digital platforms. You will collaborate with product managers and developers to create intuitive and engaging interfaces that meet user needs and improve overall satisfaction.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Conduct user research and usability testing to inform design decisions.</li>\n            <li>Create wireframes, prototypes, and high-fidelity mockups for web and mobile applications.</li>\n            <li>Work closely with development teams to ensure designs are implemented accurately.</li>\n            <li>Iterate on designs based on user feedback and analytics.</li>\n            <li>Stay updated on design trends and best practices in UX/UI.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in design tools such as Sketch, Figma, or Adobe XD.</li>\n            <li>Strong understanding of user-centered design principles.</li>\n            <li>Experience with responsive and adaptive design techniques.</li>\n            <li>Excellent communication skills and ability to work collaboratively.</li>\n            <li>A portfolio showcasing relevant design projects is required.</li>\n        </ol>",
+    "location": "Hyderabad",
+    "category": "Design",
+    "level": "Intermediate Level",
+    "salary": 64000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "\n        <p>As a DevOps Engineer, you will play a crucial role in enhancing our software development and deployment processes. You will work with development and operations teams to automate workflows, improve system reliability, and ensure seamless integration and delivery of applications.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design and implement CI/CD pipelines to automate application deployment.</li>\n            <li>Monitor system performance and troubleshoot issues proactively.</li>\n            <li>Collaborate with development teams to improve software development lifecycle.</li>\n            <li>Implement infrastructure as code using tools like Terraform or Ansible.</li>\n            <li>Ensure security best practices are followed in the deployment process.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong experience with cloud platforms (AWS, Azure, or GCP).</li>\n            <li>Proficiency in scripting languages such as Bash or Python.</li>\n            <li>Familiarity with containerization tools like Docker and orchestration platforms like Kubernetes.</li>\n            <li>Excellent troubleshooting and problem-solving skills.</li>\n            <li>Relevant certifications (e.g., AWS Certified DevOps Engineer) are a plus.</li>\n        </ol>",
+    "location": "Bangalore",
+    "category": "Programming",
+    "level": "Senior Level",
+    "salary": 74000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Sales Manager",
+    "description": "\n        <p>Join our team as a Sales Manager, where you will lead our sales efforts to drive growth and increase market share. You will develop sales strategies, manage client relationships, and mentor your sales team to achieve performance goals.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Develop and implement strategic sales plans to achieve company objectives.</li>\n            <li>Manage and lead a team of sales representatives to meet and exceed sales targets.</li>\n            <li>Build and maintain strong relationships with key clients and stakeholders.</li>\n            <li>Analyze sales data and market trends to identify opportunities for growth.</li>\n            <li>Provide training and development opportunities for the sales team.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proven experience in sales management and team leadership.</li>\n            <li>Strong negotiation and communication skills.</li>\n            <li>Ability to analyze data and make informed decisions.</li>\n            <li>Experience with CRM software (e.g., Salesforce).</li>\n            <li>A results-oriented mindset with a focus on meeting targets.</li>\n        </ol>",
+    "location": "Kolkatta",
+    "category": "Marketing",
+    "level": "Senior Level",
+    "salary": 59000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Human Resources Specialist",
+    "description": "\n        <p>As a Human Resources Specialist, you will support various HR functions, including recruitment, employee relations, and compliance. You will play a vital role in fostering a positive workplace culture and ensuring that our HR practices align with organizational goals.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Assist with the recruitment process, including job postings and candidate screenings.</li>\n            <li>Support employee onboarding and orientation programs.</li>\n            <li>Manage employee records and ensure compliance with HR policies.</li>\n            <li>Provide guidance to employees on HR-related inquiries.</li>\n            <li>Help organize employee training and development initiatives.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong understanding of HR principles and practices.</li>\n            <li>Excellent communication and interpersonal skills.</li>\n            <li>Proficiency in HR software (e.g., HRIS, ATS).</li>\n            <li>Ability to maintain confidentiality and handle sensitive information.</li>\n            <li>Attention to detail and strong organizational skills.</li>\n        </ol>",
+    "location": "Jaipur",
+    "category": "Management",
+    "level": "Intermediate Level",
+    "salary": 89000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Content Marketing Manager",
+    "description": "\n        <p>We are looking for a Content Marketing Manager to lead our content strategy and execution. In this role, you will develop compelling content that engages our audience and drives brand awareness. You will collaborate with various teams to ensure consistent messaging across all platforms.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Develop and implement a content marketing strategy aligned with business objectives.</li>\n            <li>Create and oversee the production of high-quality content for blogs, social media, and other channels.</li>\n            <li>Analyze content performance and optimize strategies based on data-driven insights.</li>\n            <li>Collaborate with designers and other stakeholders to ensure content aligns with visual branding.</li>\n            <li>Manage the content calendar and ensure timely delivery of content.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proven experience in content marketing and strategy development.</li>\n            <li>Strong writing and editing skills with a keen eye for detail.</li>\n            <li>Familiarity with SEO best practices and content management systems.</li>\n            <li>Excellent analytical skills and ability to interpret data.</li>\n            <li>Strong leadership and project management skills.</li>\n        </ol>",
+    "location": "Mumbai",
+    "category": "Marketing",
+    "level": "Senior Level",
+    "salary": 99000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "description": "\n        <p>Join our creative team as a Graphic Designer, where you will be responsible for creating visually appealing graphics and layouts that enhance our brand identity. You will collaborate with marketing and product teams to develop creative solutions for various projects.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design graphics for digital and print media, including social media, websites, and marketing materials.</li>\n            <li>Collaborate with cross-functional teams to understand project requirements and objectives.</li>\n            <li>Stay updated on design trends and tools to continually enhance skills and creativity.</li>\n            <li>Prepare and present design concepts to stakeholders for feedback and approval.</li>\n            <li>Ensure all designs align with brand guidelines and project specifications.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Proficiency in design software such as Adobe Creative Suite (Photoshop, Illustrator, InDesign).</li>\n            <li>Strong understanding of design principles and typography.</li>\n            <li>Ability to work on multiple projects simultaneously and meet deadlines.</li>\n            <li>Excellent communication and collaboration skills.</li>\n            <li>A portfolio showcasing relevant design work is required.</li>\n        </ol>",
+    "location": "Chennai",
+    "category": "Design",
+    "level": "Intermediate Level",
+    "salary": 91000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Software Tester",
+    "description": "\n        <p>As a Software Tester, you will play a critical role in ensuring the quality and reliability of our software applications. You will design test cases, execute tests, and collaborate with development teams to identify and resolve defects before product release.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Develop and execute test plans and test cases based on software requirements.</li>\n            <li>Identify, document, and track defects using bug tracking tools.</li>\n            <li>Collaborate with developers to resolve issues and improve software quality.</li>\n            <li>Conduct regression testing to ensure existing functionality remains intact.</li>\n            <li>Participate in team meetings to provide insights on product quality and testing status.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Experience with manual and automated testing techniques.</li>\n            <li>Familiarity with testing tools (e.g., Selenium, JUnit).</li>\n            <li>Strong analytical and problem-solving skills.</li>\n            <li>Excellent attention to detail and ability to work under tight deadlines.</li>\n            <li>Good communication skills to articulate testing outcomes and challenges.</li>\n        </ol>",
+    "location": "Chennai",
+    "category": "Programming",
+    "level": "Intermediate Level",
+    "salary": 123000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Network Security Engineer",
+    "description": "\n        <p>We are seeking a Network Security Engineer to protect our organization's IT infrastructure. You will design and implement security measures to safeguard systems from unauthorized access and ensure compliance with security policies.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Develop and implement security protocols for network systems.</li>\n            <li>Monitor network traffic for suspicious activity and respond to incidents.</li>\n            <li>Conduct vulnerability assessments and penetration testing.</li>\n            <li>Collaborate with IT teams to resolve security issues and enhance network security.</li>\n            <li>Stay updated on the latest security trends and technologies.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Strong knowledge of networking protocols and security technologies.</li>\n            <li>Experience with firewalls, VPNs, IDS/IPS, and security information systems.</li>\n            <li>Relevant certifications (e.g., CISSP, CISM, CEH) are preferred.</li>\n            <li>Excellent analytical and troubleshooting skills.</li>\n            <li>Strong communication skills to work with technical and non-technical teams.</li>\n        </ol>",
+    "location": "Bangalore",
+    "category": "Cybersecurity",
+    "level": "Senior Level",
+    "salary": 87000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "\n        <p>Join our technology team as a Cloud Engineer, where you will be responsible for designing and managing our cloud infrastructure. You will collaborate with development and operations teams to ensure the efficient deployment and scaling of applications.</p>\n        <h2><strong>Key Responsibilities</strong></h2>\n        <ol>\n            <li>Design and implement cloud solutions using AWS, Azure, or Google Cloud Platform.</li>\n            <li>Monitor and optimize cloud resources for performance and cost efficiency.</li>\n            <li>Work with DevOps teams to automate deployment processes.</li>\n            <li>Ensure cloud security and compliance with industry standards.</li>\n            <li>Provide technical support and troubleshooting for cloud-based applications.</li>\n        </ol>\n        <h2><strong>Skills Required</strong></h2>\n        <ol>\n            <li>Experience with cloud platforms and services.</li>\n            <li>Proficiency in scripting languages such as Python or Bash.</li>\n            <li>Strong understanding of networking concepts and security.</li>\n            <li>Experience with container orchestration tools like Kubernetes.</li>\n            <li>Good problem-solving skills and attention to detail.</li>\n        </ol>",
+    "location": "Hyderabad",
+    "category": "Programming",
+    "level": "Intermediate Level",
+    "salary": 102000,
+    "date": 1729681667114,
+    "visible": true,
+    "companyId": {
+      "$oid": "67ab82f988a60ffe706ce487"
+    }
+  }
+]
