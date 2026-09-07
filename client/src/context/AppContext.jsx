@@ -1,10 +1,11 @@
 import { createContext, useEffect, useState } from "react";
-// import { jobsData } from "../assets/assets";
+
 
 export const AppContext = createContext();
 
 export const AppContextProvider = ({ children }) => {
-  const backendUrl = "http://localhost:9000";
+  // const backendUrl = "http://localhost:9000";
+  const backendUrl = "https://job-portal-two-gray.vercel.app";
 
   const [searchFilter, setSearchFilter] = useState({
     title: "",
