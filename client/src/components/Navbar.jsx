@@ -24,17 +24,17 @@ const Navbar = () => {
 
   return (
     <div className="bg-gray-900 dark:bg-black border-b border-gray-200 dark:border-gray-800 py-4">
-      <div className="container px-4 2xl:px-20 mx-auto flex justify-between items-center">
+      <div className="container px-4 2xl:px-20 mx-auto flex justify-between items-center ">
         <img
           onClick={() => navigate("/")}
-          className="cursor-pointer bg-gray-200 px-2 py-1 rounded-md"
+          className="hidden sm:block cursor-pointer bg-gray-200 px-2 py-1 rounded-md"
           src={assets.logo}
           alt=""
         />
 
         {user ? (
           // Job seeker ke logged-in hone par uski navigation show karne ke liye
-          <div className="flex items-center gap-3 font-semibold">
+          <div className="w-full sm:w-auto justify-evenly sm:justify-normal flex items-center gap-3 font-semibold">
             <Link
               to="/applications"
               className="text-white dark:text-gray-200 hover:text-green-300 transition"
@@ -127,24 +127,24 @@ const Navbar = () => {
           </div>
         ) : (
           // Kisi bhi account ke login na hone par login options show karne ke liye
-          <div className="flex gap-4 max-sm:text-xs font-semibold">
+      <div className="w-full sm:w-auto flex items-center justify-between sm:justify-normal gap-2 sm:gap-4 font-semibold ">
             <button
               onClick={() => setShowRecruiterLogin(true)}
-              className="text-gray-300 hover:text-green-400 border border-transparent hover:border hover:border-green-400 px-6 sm:px-9 py-2 rounded-full transition"
+              className="text-gray-300 hover:text-green-400 border border-transparent hover:border hover:border-green-400 px-6 sm:px-6 py-1.5 rounded-full transition"
             >
               Recruiter Login
             </button>
 
             <button
               onClick={() => setShowUserLogin(true)}
-              className="bg-green-400 hover:bg-transparent hover:text-green-400 border border-transparent hover:border hover:border-green-400 text-black px-6 sm:px-9 py-2 rounded-full transition"
+              className="bg-green-400 hover:bg-transparent hover:text-green-400 border border-transparent hover:border hover:border-green-400 text-black px-6 sm:px-9 py-1.5 rounded-full transition"
             >
               Login
             </button>
 
             <button
               onClick={() => setIsDarkMode(!isDarkMode)}
-              className="p-2 rounded-full bg-gray-700 dark:bg-gray-800 text-gray-900 dark:text-white hover:bg-gray-600 dark:hover:bg-gray-700 transition"
+              className="p-1.5 rounded-full bg-gray-700 dark:bg-gray-800 text-gray-900 dark:text-white hover:bg-gray-600 dark:hover:bg-gray-700 transition"
               title={
                 isDarkMode ? "Switch to Light Mode" : "Switch to Dark Mode"
               }

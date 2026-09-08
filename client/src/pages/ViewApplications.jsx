@@ -79,8 +79,8 @@ const changeApplicationStatus = async (applicationId, status) => {
   }, []);
   return (
     <div className="container mx-auto p-4">
-  <div className="bg-gray-200 dark:bg-gray-900 border border-gray-400 dark:border-gray-700 rounded-lg overflow-hidden">
-    <table className="w-full bg-gray-200 dark:bg-gray-900 max-sm:text-sm">
+  <div className="bg-gray-200 dark:bg-gray-900 border border-gray-400 dark:border-gray-700 rounded-lg overflow-x-auto">
+  <table className="min-w-[900px] lg:min-w-full bg-gray-200 dark:bg-gray-900 max-sm:text-sm">
 
       {/* Applicants table ke header ko project ke common theme ke according style karne ke liye */}
       <thead className="bg-gray-800 dark:bg-black text-white">

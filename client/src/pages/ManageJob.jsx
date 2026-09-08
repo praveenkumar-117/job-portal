@@ -102,7 +102,7 @@ const ManageJob = () => {
   return (
     <div className="container p-4 max-auto">
   <div className="overflow-x-auto">
-    <table className="min-w-full bg-gray-200 dark:bg-gray-900 border border-gray-400 dark:border-gray-700 max-sm:text-sm">
+    <table className="min-w-[900px] lg:min-w-full bg-gray-200 dark:bg-gray-900 border border-gray-400 dark:border-gray-700 max-sm:text-sm">
       
       {/* Job management table ke header ko theme ke according style karne ke liye */}
       <thead className="bg-gray-800 dark:bg-black text-white">

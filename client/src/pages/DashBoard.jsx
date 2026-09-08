@@ -16,16 +16,16 @@ const DashBoard = () => {
     <div className="min-h-screen bg-gray-300 dark:bg-black">
       {/* Recruiter panel ki top navigation ko theme ke according show karne ke liye */}
       <div className="shadow py-4 bg-gray-900 dark:bg-black text-gray-200">
-        <div className="px-5 flex justify-between items-center">
+        <div className="px-5 flex justify-between items-center ">
           <img
             onClick={(e) => navigate("/")}
             src={assets.logo}
             alt=""
-            className="maxx-sm:w-32 cursor-pointer bg-white rounded-md p-1"
+            className="hidden sm:block max-sm:w-32 cursor-pointer bg-white rounded-md p-1"
           />
 
-          <div className="flex items-center gap-6 px-2">
-            <p className="max-sm:hidden">
+          <div className="w-full sm:w-auto flex items-center justify-evenly gap-6 px-2 ">
+            <p className="flex gap-3 text-sm sm:text-base truncate max-w-[280px]">
               Welcome,{" "}
               <span className="uppercase text-green-400">{company?.name}</span>
             </p>

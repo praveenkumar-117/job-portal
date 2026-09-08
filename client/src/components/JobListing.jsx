@@ -6,7 +6,7 @@ import JobCard from "./JobCard";
 const JobListing = () => {
   const { isSearch, searchFilter, setSearchFilter, jobs, isJobsLoading } =
     useContext(AppContext);
-  const [showFilter, setShowFilter] = useState(false);
+  const [showFilter, setShowFilter] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedLocation, setSelectedLoacation] = useState([]);
