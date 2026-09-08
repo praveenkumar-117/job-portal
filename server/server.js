@@ -16,7 +16,11 @@ connectDB()
 connectCloudinary()
 
 //middleware
-app.use(cors())
+app.use(cors({
+  origin: "https://job-portal-prvn.vercel.app",
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "token"]
+}))
 app.use(express.json())
 
 // Route

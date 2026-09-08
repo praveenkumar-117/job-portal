@@ -4,7 +4,8 @@ import { createContext, useEffect, useState } from "react";
 export const AppContext = createContext();
 
 export const AppContextProvider = ({ children }) => {
-  const backendUrl = "http://localhost:9000";
+  // const backendUrl = "http://localhost:9000";
+  const backendUrl = "https://job-portal-backend-rho-bay.vercel.app"
   
 
   const [searchFilter, setSearchFilter] = useState({
