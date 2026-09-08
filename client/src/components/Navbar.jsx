@@ -17,6 +17,7 @@ const Navbar = () => {
     setUser,
     isDarkMode,
     setIsDarkMode,
+    setCompany
   } = useContext(AppContext);
 
   // Recruiter ke logged-in session ko identify karne ke liye
@@ -76,11 +77,13 @@ const Navbar = () => {
 
                 sessionStorage.removeItem("userToken");
                 sessionStorage.removeItem("userData");
-                setUser(null);
-                navigate("/");
+               
+                
 
                 // Successful logout ke baad user ko notification dikhane ke liye
-                toast.success("Logged out successfully");
+                // toast.success("Logged out successfully");
+                navigate("/");
+                 setUser(null);
               }}
               className="text-red-500 hover:bg-red-500 hover:text-white py-1 px-2 rounded-md transition"
             >
@@ -115,8 +118,9 @@ const Navbar = () => {
                 sessionStorage.removeItem("companyToken");
 
                 // Successful logout ke baad home page par redirect karne ke liye
-                toast.success("Logged out successfully");
+                // toast.success("Logged out successfully");
                 navigate("/");
+                setCompany(null);
               }}
               className="text-red-500 hover:bg-red-500 hover:text-white py-1 px-2 rounded-md transition"
             >
