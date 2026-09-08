@@ -23,11 +23,18 @@ const DashBoard = () => {
             alt=""
             className="hidden sm:block max-sm:w-32 cursor-pointer bg-white rounded-md p-1"
           />
+          <button
+    onClick={() => navigate("/")}
+    className="sm:hidden text-white text-lg p-1 rounded-md hover:bg-gray-800 transition"
+    title="Home"
+  >
+    🏠
+  </button>
 
-          <div className="w-full sm:w-auto flex items-center justify-evenly gap-6 px-2 ">
-            <p className="flex gap-3 text-sm sm:text-base truncate max-w-[280px]">
+          <div className="w-full sm:w-auto flex items-center justify-evenly gap-4 px-2 ">
+            <p className="flex gap-3 text-sm sm:text-base ">
               Welcome,{" "}
-              <span className="uppercase text-green-400">{company?.name}</span>
+              <span className="uppercase text-green-400 truncate max-w-[280px]">{company?.name}</span>
             </p>
 
             <div className="relative group">

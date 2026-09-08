@@ -31,7 +31,14 @@ const Navbar = () => {
           src={assets.logo}
           alt=""
         />
-
+  <button
+    onClick={() => navigate("/")}
+    className="sm:hidden text-white text-xl p-2 rounded-md hover:bg-gray-800 transition"
+    title="Home"
+  >
+    🏠 
+  </button>
+  <p className="sm:hidden text-white">Welcome..</p>
         {user ? (
           // Job seeker ke logged-in hone par uski navigation show karne ke liye
           <div className="w-full sm:w-auto justify-evenly sm:justify-normal flex items-center gap-3 font-semibold">
@@ -70,6 +77,7 @@ const Navbar = () => {
                 sessionStorage.removeItem("userToken");
                 sessionStorage.removeItem("userData");
                 setUser(null);
+                navigate("/");
 
                 // Successful logout ke baad user ko notification dikhane ke liye
                 toast.success("Logged out successfully");
