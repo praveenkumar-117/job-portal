@@ -39,7 +39,7 @@ const Navbar = () => {
   >
     🏠 
   </button>
-  <p className="sm:hidden text-white">Welcome..</p>
+  
         {user ? (
           // Job seeker ke logged-in hone par uski navigation show karne ke liye
           <div className="w-full sm:w-auto justify-evenly sm:justify-normal flex items-center gap-3 font-semibold">
@@ -93,10 +93,10 @@ const Navbar = () => {
         ) : companyToken ? (
           // Recruiter ke logged-in hone par Dashboard aur Logout show karne ke liye
           <div className="flex items-center gap-3 font-semibold">
-            <p className="max-sm:hidden text-white dark:text-gray-200">
+            {/* <p className="max-sm:hidden text-white dark:text-gray-200">
               Hi, {company?.name}
             </p>
-            <p className="text-gray-200 dark:text-gray-600 font-bold">|</p>
+            <p className="text-gray-200 dark:text-gray-600 font-bold">|</p> */}
             <Link
               to="/dashboard"
               className="text-white dark:text-gray-200 hover:text-green-300 transition"
